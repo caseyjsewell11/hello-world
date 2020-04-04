@@ -1,5 +1,4 @@
 # hello-world
-practice
 
 Hello you, 
 
